@@ -1,10 +1,16 @@
 _repo: Parsons-on-the-Rose-A-Treatise-on-the-Propagation-Culture-and-History-of-the-Rose_48186
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parsons, Samuel Browne
     gutenberg_agent_id: '44666'
     url: http://www.gutenberg.org/2009/agents/44666
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48186#Parsons-on-the-Rose-A-Treatise-on-the-Propagation-Culture-and-History-of-the-Rose
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
